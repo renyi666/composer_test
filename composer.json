@@ -10,9 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "alipay_test/renyi666": "dev-,aster"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "AlipayTest\\Renyi666\\": "src/"
