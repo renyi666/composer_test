@@ -21,4 +21,15 @@
 
 abstract  class Alipay{
 
+    public  function  index(){
+
+    }
+}
+
+class  AlpayClass extends  Alipay{
+
+    public function index()
+    {
+       echo  "cccc";
+    }
 }
