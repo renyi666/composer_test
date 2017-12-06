@@ -1,0 +1,19 @@
+{
+    "name": "alipay_test/renyi666",
+    "description": "alipay_test",
+    "type": "sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GaoYuan",
+            "email": "15764246304@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AlipayTest\\Renyi666\\": "src/"
+        }
+    }
+}
