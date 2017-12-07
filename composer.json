@@ -11,10 +11,14 @@
     ],
     "minimum-stability": "dev",
     "require": {
+        "php":                               "^5.3|^7.0",
+        "illuminate/support": "5.*",
+        "illuminate/events": "5.*",
+        "illuminate/config": "5.*"
     },
     "autoload": {
         "psr-4": {
-            "AlipayTest\\Renyi666\\": "src/"
+            "Sexyphp\\Src\\": "src/"
         }
     }
 }

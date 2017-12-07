@@ -14,22 +14,12 @@
  *                \         /_ | |__
  *                (___________)))))))
  * @author：gaoyuan
- * @created_time：2017-12-06 14:20
+ * @created_time：2017-12-07 10:44
  * When I wrote this, only God and I understood what I was doing
  * Now, God only knows
  */
 
-abstract  class Alipay{
+return[
 
-    public  function  index(){
-
-    }
-}
-
-class  AlpayClass extends  Alipay{
-
-    public function index()
-    {
-       echo  "cccc";
-    }
-}
+    'appid'=>'222'
+];
